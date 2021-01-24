@@ -1,0 +1,17 @@
+body {
+    background-color:white;
+    background-size:100% 100%;
+    background-repeat:no-repeat;
+    margin-bottom: 100px;
+ }
+
+ 
+ footer {
+     position: fixed;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin-bottom: 0px;
+}
+
+
